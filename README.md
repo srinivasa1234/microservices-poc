@@ -1,6 +1,6 @@
-# Microservices app running through docker & kubenets
+# Microservices app running through docker & kubernets
 
-### Install all dependencies indiviusaly
+### Install all dependencies individually
 
 ```bash
 npm install
@@ -13,7 +13,7 @@ cd client
 npm install
 ```
 
-### Run all indivisally
+### Run all individually
 
 ```bash
 npm start
